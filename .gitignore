@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+incidents.db
+reports/
+.env
+.env.*
+.DS_Store
